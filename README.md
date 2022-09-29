@@ -7,7 +7,7 @@ Maker Media GmbH
 # Termika Fotilo
 ## Die günstige DIY-Thermokamera
 
-**Unsere einfache portable Wärmebildkamera ist unschlagbar günstig. Die Auflösung von 16×4 Pixel klingt zwar niedrig, aber mit ein wenig Mathematik lässt sich das gewonnene Bild deutlich verbessern.**
+**Unsere einfache portable Wärmebildkamera ist unschlagbar günstig. Die Auflösung von 16×4 Pixel klingt zwar niedrig, aber mit ein wenig Mathematik lässt sich das gewonnene Bild deutlich verbessern. Und zum Aufspüren von Kältebrücken und Wärmequellen reicht die Darstellung allemal.**
 
 ![Termika Fotilo](./TermikaFotilo.jpg)
 
